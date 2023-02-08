@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.App {
+  display: flex;
+  
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.disabled {
+  display: none;
+}
